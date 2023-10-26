@@ -1,7 +1,7 @@
 ## Operating System Used
 * [WINDOWS 10](https://www.microsoft.com/software-download/windows10) -You can use this page to download a disc image (ISO file) that can be used to install or reinstall Windows 10.
 ## latihan 1
-![Screenshot (200)](https://C:\Users\kuswo\pratikum 3\srenshoot 1.png
+<img src="kuswo\pratikum 3\srenshoot 1.png">
 ## latihan 2
 ![Screenshot (201)](https:// C:\Users\kuswo\pratikum 3\srenshoot 2.png
 ## latihan3
