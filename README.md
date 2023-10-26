@@ -1,5 +1,5 @@
 ## Operating System Used
-* [WINDOWS 10](https://www.microsoft.com/software-download/windows10) -You can use this page to download a disc image (ISO file) that can be used to install or reinstall Windows 10.
+* [WINDOWS 10](https://www.microsoft.com/en-us/software-download/windows11) -You can use this page to download a disc image (ISO file) that can be used to install or reinstall Windows 11.
 ## latihan 1
 <img src="screenshot/srenshoot 3.png">
 ## latihan 2
